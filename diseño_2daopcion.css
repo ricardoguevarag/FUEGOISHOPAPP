@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body{ background-color: #096;} 
+main{
+margin: auto;
+}
+aside{
+margin:auto;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+background-color: #099;
+border-radius: 10px;
+padding: 5px;
+width: 600px;
+height:2000px;
+border box: 30px;
+}
+
